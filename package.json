@@ -1,0 +1,42 @@
+{
+  "name": "feelthemernbe",
+  "version": "1.0.0",
+  "description": "FeelTheMERN Back-End",
+  "main": "api.js",
+  "scripts": {
+    "test": "node __test__/authentication.js",
+    "start": "nodemon api.js",
+    "deploy": "now && now alias"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FeelTheMERN/feelthemernbe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FeelTheMERN/feelthemernbe/issues"
+  },
+  "homepage": "https://github.com/FeelTheMERN/feelthemernbe#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bcrypt": "^3.0.3",
+    "body-parser": "^1.18.3",
+    "cloudinary": "^1.13.2",
+    "cookie-session": "^2.0.0-beta.3",
+    "cors": "^2.8.5",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.4.0",
+    "moment": "^2.24.0",
+    "mongoose": "^5.4.5",
+    "multer": "^1.4.1",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9",
+    "now": "^13.1.2"
+  }
+}
