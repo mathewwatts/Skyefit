@@ -1,12 +1,10 @@
 # Skyefit
 
-[github](https://github.com/Skyefit)
-
 [Skyefit](https://skyefit.netlify.com/)
 
 ## Description
 
-Skyefit is a web application that aims to provide our client a more convenient experience in managing nutrition, excercise, record keeping and organization. Its main feature is to allow our client to create user accounts, calculate body fat percentage, create meal plans and a calendar that displays booked sessions.
+Skyefit is a web application that aims to provide our client (Personal Trainer) a more convenient experience in managing nutrition, excercise, record keeping and organization. Its main feature is to allow our client to create user accounts, calculate body fat percentage, create meal plans and a calendar that displays booked sessions.
 
 ## Tech Stack
 
